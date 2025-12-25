@@ -8,11 +8,11 @@ A simple weather application where users can enter a city name and get real-time
 
 ### **Before City Name Search**
 
-![Before Search](<Screenshot 2025-12-09 225129.png>)
+![Before Search](<before.png>)
 
 ### **After City Name Search**
 
-![After Search](<Screenshot 2025-12-09 225211.png>)
+![After Search](<after.png>)
 
 ---
 

@@ -6,13 +6,13 @@ This project integrates the OpenWeatherMap API to fetch and display weather deta
 
 ## Before City Name Search
 
-![Before Search](<Screenshot 2025-12-09 230505.png>)
+![Before Search](<before.png>)
 
 ---
 
 ## After City Name Search
 
-![After Search](<Screenshot 2025-12-09 230542.png>)
+![After Search](<after.png>)
 
 ---
 
